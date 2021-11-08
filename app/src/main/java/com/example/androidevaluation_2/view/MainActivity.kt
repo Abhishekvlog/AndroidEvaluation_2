@@ -33,11 +33,6 @@ class MainActivity : AppCompatActivity() {
             .get(ViewModel::class.java)
 
 
-
-
-
-
-
     }
 
 }
